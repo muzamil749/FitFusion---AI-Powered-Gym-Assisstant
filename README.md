@@ -53,8 +53,8 @@ Matplotlib
 Jupyter Notebook
 Google Colab
 ⚙️ Installation
-# Clone the repository
-git clone https://github.com/your-username/fitfusion-ai.git
+# Live Demo
+https://fitfusion-ai-sigma.vercel.app/
 
 # Navigate to project directory
 cd fitfusion-ai
